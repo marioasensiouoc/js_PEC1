@@ -1,6 +1,6 @@
 # userUOC: marioasensio
 # Nombre: Mario Asensio García
-# Es esta PEC..
+# Repositorio: https://github.com/marioasensiouoc/js_PEC1
 
 ## Dificultades:
 
